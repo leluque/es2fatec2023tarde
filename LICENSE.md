@@ -1,0 +1,1 @@
+# TODO: adicionar licença de software
